@@ -1,4 +1,8 @@
 ---
+genres:
+  - strategy
+  - roguelike
+  - survival
 post: https://7tonshark.com/posts/making-of-js13k-2022-moth
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
